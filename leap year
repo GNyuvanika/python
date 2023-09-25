@@ -1,0 +1,10 @@
+year=int(input("Enter a year="))
+if(year%4==0):
+         print("Leap year")
+elif(year%4==0)and(year%4:
+    print("Leap year")
+    print("Next leap year is on",year+4)
+else:
+    print("Not a leap year")
+
+    
