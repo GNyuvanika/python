@@ -1,0 +1,4 @@
+m=input("Enter the first name=")
+n=input("Enter the last name=")
+name=n+m
+print(name)
